@@ -1,0 +1,1 @@
+export const emptyProfileImage = "https://cdn3.iconfinder.com/data/icons/feather-5/24/user-512.png";
